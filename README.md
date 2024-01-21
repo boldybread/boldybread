@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boldybread&label=Profile%20views&color=0e75b6&style=flat" alt="boldybread" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boldybread" alt="boldybread" /></a> </p>
-
 - 🌱 I’m currently learning **My Diploma in IT: Web Development**
 
 - 👨‍💻 All of my projects are available at [https://bradarchbold.netlify.app/](https://bradarchbold.netlify.app/)
